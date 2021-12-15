@@ -1,0 +1,506 @@
+2021-12-12 17:12:522 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:752 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:764 INFO  HomePage :52 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a43d5451be4ee10a973d326a9e1b369a)] -> link text: Log in]
+2021-12-12 17:12:858 INFO  LoginPage :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a43d5451be4ee10a973d326a9e1b369a)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-12 17:12:946 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:174 INFO  HomePage :62 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (1d01d3a3b9aa1e6a11b7f7ea39cc330d)] -> link text: Register]
+2021-12-12 17:12:465 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (1d01d3a3b9aa1e6a11b7f7ea39cc330d)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-12 17:12:65 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:500 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:159 INFO  HomePage :52 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c9226785c0ee5b1fb008405bfc3df408)] -> link text: Log in]
+2021-12-12 17:12:327 INFO  LoginPage :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (c9226785c0ee5b1fb008405bfc3df408)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-12 17:12:495 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:224 INFO  HomePage :62 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (41833b9a8ad2a690c3dc01accaef7ced)] -> link text: Register]
+2021-12-12 17:12:442 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (41833b9a8ad2a690c3dc01accaef7ced)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-12 17:12:759 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:408 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:465 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:624 INFO  HomePage :52 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4a8681f807bd2d235cccecea6fe065f5)] -> link text: Log in]
+2021-12-12 17:12:37 INFO  LoginPage :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (4a8681f807bd2d235cccecea6fe065f5)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-12 17:12:230 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 17:12:874 INFO  HomePage :52 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c381888b8bda515fe19510a3681f259f)] -> link text: Log in]
+2021-12-12 21:12:865 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:202 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (935fb0dca2da9266536ed56df46e5014)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-12 21:12:238 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:704 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (7316a90e5958eed5a664d84b355e01bd)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-12 21:12:236 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (7316a90e5958eed5a664d84b355e01bd)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-12 21:12:283 INFO  DesktopsPage :40 - Desktop text : Desktops[[ChromeDriver: chrome on WINDOWS (7316a90e5958eed5a664d84b355e01bd)] -> xpath: //h1[normalize-space()='Desktops']]
+2021-12-12 21:12:303 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:558 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (c461ca825de1c03f7ab367b3235add32)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-12 21:12:669 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (c461ca825de1c03f7ab367b3235add32)] -> xpath: //div[@class='picture']]
+2021-12-12 21:12:848 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:593 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (b94685a10fe11282ac74f42229c35f07)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-12 21:12:58 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (b94685a10fe11282ac74f42229c35f07)] -> xpath: //div[@class='picture']]
+2021-12-12 21:12:148 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:689 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (5e30a29399a4912af35245236255787e)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-12 21:12:01 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (5e30a29399a4912af35245236255787e)] -> xpath: //div[@class='picture']]
+2021-12-12 21:12:159 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:552 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (9d5dfc372fb3416b15905db45513a73b)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-12 21:12:582 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:79 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (7d947e4f7c3f2f94e95cb60b3741b62b)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-12 21:12:607 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (7d947e4f7c3f2f94e95cb60b3741b62b)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-12 21:12:655 INFO  DesktopsPage :40 - Desktop text : Desktops[[ChromeDriver: chrome on WINDOWS (7d947e4f7c3f2f94e95cb60b3741b62b)] -> xpath: //h1[normalize-space()='Desktops']]
+2021-12-12 21:12:666 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:190 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (fbf0412fa26d1db2c5cb225966e42cf3)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-12 21:12:483 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (fbf0412fa26d1db2c5cb225966e42cf3)] -> xpath: //div[@class='picture']]
+2021-12-12 21:12:585 INFO  BuildYourOwnComputerPage :58 - Select Processor : 2.2 GHz Intel Pentium Dual-Core E2200[[ChromeDriver: chrome on WINDOWS (fbf0412fa26d1db2c5cb225966e42cf3)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-12 21:12:683 INFO  BuildYourOwnComputerPage :63 - Select RAM  : 2 GB[[ChromeDriver: chrome on WINDOWS (fbf0412fa26d1db2c5cb225966e42cf3)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-12 21:12:757 INFO  BuildYourOwnComputerPage :68 - Select Harddisk : 320 GB[[ChromeDriver: chrome on WINDOWS (fbf0412fa26d1db2c5cb225966e42cf3)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-12 21:12:825 INFO  BuildYourOwnComputerPage :73 - Select Operating system : Vista Home [+$50.00][[ChromeDriver: chrome on WINDOWS (fbf0412fa26d1db2c5cb225966e42cf3)] -> xpath: //input[@name= 'product_attribute_4']]
+2021-12-12 21:12:881 INFO  BuildYourOwnComputerPage :78 - Select Software : Microsoft Office [+$50.00][[ChromeDriver: chrome on WINDOWS (fbf0412fa26d1db2c5cb225966e42cf3)] -> xpath: //input[@name= 'product_attribute_5']]
+2021-12-12 21:12:936 INFO  BuildYourOwnComputerPage :83 - Clicking Add to cart : [[ChromeDriver: chrome on WINDOWS (fbf0412fa26d1db2c5cb225966e42cf3)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-12-12 21:12:315 INFO  BuildYourOwnComputerPage :88 - Verify Add to cart : [[ChromeDriver: chrome on WINDOWS (fbf0412fa26d1db2c5cb225966e42cf3)] -> xpath: //p[contains(.,'The product has been added to your shopping cart')]]
+2021-12-12 21:12:334 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:848 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (f9fc5893733f1d4a6f8f53324b0e62eb)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-12 21:12:150 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (f9fc5893733f1d4a6f8f53324b0e62eb)] -> xpath: //div[@class='picture']]
+2021-12-12 21:12:215 INFO  BuildYourOwnComputerPage :58 - Select Processor : 2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00][[ChromeDriver: chrome on WINDOWS (f9fc5893733f1d4a6f8f53324b0e62eb)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-12 21:12:295 INFO  BuildYourOwnComputerPage :63 - Select RAM  : 4GB [+$20.00][[ChromeDriver: chrome on WINDOWS (f9fc5893733f1d4a6f8f53324b0e62eb)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-12 21:12:368 INFO  BuildYourOwnComputerPage :68 - Select Harddisk : 400 GB [+$100.00][[ChromeDriver: chrome on WINDOWS (f9fc5893733f1d4a6f8f53324b0e62eb)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-12 21:12:439 INFO  BuildYourOwnComputerPage :73 - Select Operating system : Vista Premium [+$60.00][[ChromeDriver: chrome on WINDOWS (f9fc5893733f1d4a6f8f53324b0e62eb)] -> xpath: //input[@name= 'product_attribute_4']]
+2021-12-12 21:12:502 INFO  BuildYourOwnComputerPage :78 - Select Software : Acrobat Reader [+$10.00][[ChromeDriver: chrome on WINDOWS (f9fc5893733f1d4a6f8f53324b0e62eb)] -> xpath: //input[@name= 'product_attribute_5']]
+2021-12-12 21:12:557 INFO  BuildYourOwnComputerPage :83 - Clicking Add to cart : [[ChromeDriver: chrome on WINDOWS (f9fc5893733f1d4a6f8f53324b0e62eb)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-12-12 21:12:855 INFO  BuildYourOwnComputerPage :88 - Verify Add to cart : [[ChromeDriver: chrome on WINDOWS (f9fc5893733f1d4a6f8f53324b0e62eb)] -> xpath: //p[contains(.,'The product has been added to your shopping cart')]]
+2021-12-12 21:12:878 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:554 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (430dcdd891d5b733b8b030ecfad1f731)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-12 21:12:808 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (430dcdd891d5b733b8b030ecfad1f731)] -> xpath: //div[@class='picture']]
+2021-12-12 21:12:873 INFO  BuildYourOwnComputerPage :58 - Select Processor : 2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00][[ChromeDriver: chrome on WINDOWS (430dcdd891d5b733b8b030ecfad1f731)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-12 21:12:951 INFO  BuildYourOwnComputerPage :63 - Select RAM  : 8GB [+$60.00][[ChromeDriver: chrome on WINDOWS (430dcdd891d5b733b8b030ecfad1f731)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-12 21:12:20 INFO  BuildYourOwnComputerPage :68 - Select Harddisk : 320 GB[[ChromeDriver: chrome on WINDOWS (430dcdd891d5b733b8b030ecfad1f731)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-12 21:12:90 INFO  BuildYourOwnComputerPage :73 - Select Operating system : Vista Home [+$50.00][[ChromeDriver: chrome on WINDOWS (430dcdd891d5b733b8b030ecfad1f731)] -> xpath: //input[@name= 'product_attribute_4']]
+2021-12-12 21:12:153 INFO  BuildYourOwnComputerPage :78 - Select Software : Total Commander [+$5.00][[ChromeDriver: chrome on WINDOWS (430dcdd891d5b733b8b030ecfad1f731)] -> xpath: //input[@name= 'product_attribute_5']]
+2021-12-12 21:12:206 INFO  BuildYourOwnComputerPage :83 - Clicking Add to cart : [[ChromeDriver: chrome on WINDOWS (430dcdd891d5b733b8b030ecfad1f731)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-12-12 21:12:508 INFO  BuildYourOwnComputerPage :88 - Verify Add to cart : [[ChromeDriver: chrome on WINDOWS (430dcdd891d5b733b8b030ecfad1f731)] -> xpath: //p[contains(.,'The product has been added to your shopping cart')]]
+2021-12-12 21:12:83 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:916 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (9615aab262f3dcef8e09b339911bcba1)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-12 21:12:920 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:225 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5bfdff17595bba26c595173d11a08346)] -> link text: Log in]
+2021-12-12 21:12:275 INFO  LoginPage :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5bfdff17595bba26c595173d11a08346)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-12 21:12:283 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-12 21:12:24 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (272b7c86e739495f4923edeefa712adf)] -> link text: Register]
+2021-12-12 21:12:72 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (272b7c86e739495f4923edeefa712adf)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 16:12:524 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:365 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c1c157bad58ae703c45100dcce9c702f)] -> link text: Log in]
+2021-12-14 16:12:481 INFO  LoginPage :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (c1c157bad58ae703c45100dcce9c702f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-14 16:12:595 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:846 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (994b46bcb4c3f94c7609f6d21ab7a84a)] -> link text: Log in]
+2021-12-14 16:12:228 INFO  LoginPage :52 - Enter Email : [[ChromeDriver: chrome on WINDOWS (994b46bcb4c3f94c7609f6d21ab7a84a)] -> id: Email]
+2021-12-14 16:12:465 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (994b46bcb4c3f94c7609f6d21ab7a84a)] -> name: Password]
+2021-12-14 16:12:732 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (994b46bcb4c3f94c7609f6d21ab7a84a)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 16:12:792 INFO  LoginPage :70 - Getting error message : [[ChromeDriver: chrome on WINDOWS (994b46bcb4c3f94c7609f6d21ab7a84a)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-14 16:12:907 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:419 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (de698e8c2169c74e323133a3095a3769)] -> link text: Log in]
+2021-12-14 16:12:658 INFO  LoginPage :56 - Enter Email : bob@gmail.com[[ChromeDriver: chrome on WINDOWS (de698e8c2169c74e323133a3095a3769)] -> id: Email]
+2021-12-14 16:12:900 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (de698e8c2169c74e323133a3095a3769)] -> name: Password]
+2021-12-14 16:12:173 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (de698e8c2169c74e323133a3095a3769)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 16:12:758 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:475 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cfe93333b9120d480f6f14d627dfd82a)] -> link text: Log in]
+2021-12-14 16:12:762 INFO  LoginPage :56 - Enter Email : bob@gmail.com[[ChromeDriver: chrome on WINDOWS (cfe93333b9120d480f6f14d627dfd82a)] -> id: Email]
+2021-12-14 16:12:930 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (cfe93333b9120d480f6f14d627dfd82a)] -> name: Password]
+2021-12-14 16:12:154 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (cfe93333b9120d480f6f14d627dfd82a)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 16:12:740 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:41 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (cf8d237d755e861076b561e6e16ea3c6)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-14 16:12:103 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:89 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (393f51fb4c1600e20682c60f146c2d2f)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-14 16:12:866 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (393f51fb4c1600e20682c60f146c2d2f)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-14 16:12:29 INFO  DesktopsPage :40 - Desktop text : Desktops[[ChromeDriver: chrome on WINDOWS (393f51fb4c1600e20682c60f146c2d2f)] -> xpath: //h1[normalize-space()='Desktops']]
+2021-12-14 16:12:138 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:67 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (c58185d33bbbbafc66b852fb8f146f80)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-14 16:12:770 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (c58185d33bbbbafc66b852fb8f146f80)] -> xpath: //div[@class='picture']]
+2021-12-14 16:12:994 INFO  BuildYourOwnComputerPage :58 - Select Processor : 2.2 GHz Intel Pentium Dual-Core E2200[[ChromeDriver: chrome on WINDOWS (c58185d33bbbbafc66b852fb8f146f80)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-14 16:12:217 INFO  BuildYourOwnComputerPage :63 - Select RAM  : 2 GB[[ChromeDriver: chrome on WINDOWS (c58185d33bbbbafc66b852fb8f146f80)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-14 16:12:361 INFO  BuildYourOwnComputerPage :68 - Select Harddisk : 320 GB[[ChromeDriver: chrome on WINDOWS (c58185d33bbbbafc66b852fb8f146f80)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-14 16:12:512 INFO  BuildYourOwnComputerPage :73 - Select Operating system : Vista Home [+$50.00][[ChromeDriver: chrome on WINDOWS (c58185d33bbbbafc66b852fb8f146f80)] -> xpath: //input[@name= 'product_attribute_4']]
+2021-12-14 16:12:685 INFO  BuildYourOwnComputerPage :78 - Select Software : Microsoft Office [+$50.00][[ChromeDriver: chrome on WINDOWS (c58185d33bbbbafc66b852fb8f146f80)] -> xpath: //input[@name= 'product_attribute_5']]
+2021-12-14 16:12:840 INFO  BuildYourOwnComputerPage :83 - Clicking Add to cart : [[ChromeDriver: chrome on WINDOWS (c58185d33bbbbafc66b852fb8f146f80)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-12-14 16:12:207 INFO  BuildYourOwnComputerPage :88 - Verify Add to cart : [[ChromeDriver: chrome on WINDOWS (c58185d33bbbbafc66b852fb8f146f80)] -> xpath: //p[contains(.,'The product has been added to your shopping cart')]]
+2021-12-14 16:12:248 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:951 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (aa7152f58c72d8f5d660629c2b5eff0b)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-14 16:12:843 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (aa7152f58c72d8f5d660629c2b5eff0b)] -> xpath: //div[@class='picture']]
+2021-12-14 16:12:14 INFO  BuildYourOwnComputerPage :58 - Select Processor : 2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00][[ChromeDriver: chrome on WINDOWS (aa7152f58c72d8f5d660629c2b5eff0b)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-14 16:12:185 INFO  BuildYourOwnComputerPage :63 - Select RAM  : 4GB [+$20.00][[ChromeDriver: chrome on WINDOWS (aa7152f58c72d8f5d660629c2b5eff0b)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-14 16:12:348 INFO  BuildYourOwnComputerPage :68 - Select Harddisk : 400 GB [+$100.00][[ChromeDriver: chrome on WINDOWS (aa7152f58c72d8f5d660629c2b5eff0b)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-14 16:12:492 INFO  BuildYourOwnComputerPage :73 - Select Operating system : Vista Premium [+$60.00][[ChromeDriver: chrome on WINDOWS (aa7152f58c72d8f5d660629c2b5eff0b)] -> xpath: //input[@name= 'product_attribute_4']]
+2021-12-14 16:12:602 INFO  BuildYourOwnComputerPage :78 - Select Software : Acrobat Reader [+$10.00][[ChromeDriver: chrome on WINDOWS (aa7152f58c72d8f5d660629c2b5eff0b)] -> xpath: //input[@name= 'product_attribute_5']]
+2021-12-14 16:12:769 INFO  BuildYourOwnComputerPage :83 - Clicking Add to cart : [[ChromeDriver: chrome on WINDOWS (aa7152f58c72d8f5d660629c2b5eff0b)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-12-14 16:12:664 INFO  BuildYourOwnComputerPage :88 - Verify Add to cart : [[ChromeDriver: chrome on WINDOWS (aa7152f58c72d8f5d660629c2b5eff0b)] -> xpath: //p[contains(.,'The product has been added to your shopping cart')]]
+2021-12-14 16:12:687 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:164 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (54dd0b50fb78491c77c3e6c9a8a3e0af)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-14 16:12:844 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (54dd0b50fb78491c77c3e6c9a8a3e0af)] -> xpath: //div[@class='picture']]
+2021-12-14 16:12:965 INFO  BuildYourOwnComputerPage :58 - Select Processor : 2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00][[ChromeDriver: chrome on WINDOWS (54dd0b50fb78491c77c3e6c9a8a3e0af)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-14 16:12:127 INFO  BuildYourOwnComputerPage :63 - Select RAM  : 8GB [+$60.00][[ChromeDriver: chrome on WINDOWS (54dd0b50fb78491c77c3e6c9a8a3e0af)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-14 16:12:275 INFO  BuildYourOwnComputerPage :68 - Select Harddisk : 320 GB[[ChromeDriver: chrome on WINDOWS (54dd0b50fb78491c77c3e6c9a8a3e0af)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-14 16:12:411 INFO  BuildYourOwnComputerPage :73 - Select Operating system : Vista Home [+$50.00][[ChromeDriver: chrome on WINDOWS (54dd0b50fb78491c77c3e6c9a8a3e0af)] -> xpath: //input[@name= 'product_attribute_4']]
+2021-12-14 16:12:525 INFO  BuildYourOwnComputerPage :78 - Select Software : Total Commander [+$5.00][[ChromeDriver: chrome on WINDOWS (54dd0b50fb78491c77c3e6c9a8a3e0af)] -> xpath: //input[@name= 'product_attribute_5']]
+2021-12-14 16:12:664 INFO  BuildYourOwnComputerPage :83 - Clicking Add to cart : [[ChromeDriver: chrome on WINDOWS (54dd0b50fb78491c77c3e6c9a8a3e0af)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-12-14 16:12:84 INFO  BuildYourOwnComputerPage :88 - Verify Add to cart : [[ChromeDriver: chrome on WINDOWS (54dd0b50fb78491c77c3e6c9a8a3e0af)] -> xpath: //p[contains(.,'The product has been added to your shopping cart')]]
+2021-12-14 16:12:123 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:920 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d80e2a2dbf15a0e697467cd5e2488bc2)] -> link text: Log in]
+2021-12-14 16:12:19 INFO  LoginPage :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d80e2a2dbf15a0e697467cd5e2488bc2)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-14 16:12:76 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:525 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3ee835b328c0ae15a6cdde2d68c4caf1)] -> link text: Log in]
+2021-12-14 16:12:882 INFO  LoginPage :52 - Enter Email : [[ChromeDriver: chrome on WINDOWS (3ee835b328c0ae15a6cdde2d68c4caf1)] -> id: Email]
+2021-12-14 16:12:66 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (3ee835b328c0ae15a6cdde2d68c4caf1)] -> name: Password]
+2021-12-14 16:12:353 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (3ee835b328c0ae15a6cdde2d68c4caf1)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 16:12:398 INFO  LoginPage :70 - Getting error message : [[ChromeDriver: chrome on WINDOWS (3ee835b328c0ae15a6cdde2d68c4caf1)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-14 16:12:479 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:802 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (10322175acbf74ed0d13f1173bab9d9d)] -> link text: Log in]
+2021-12-14 16:12:971 INFO  LoginPage :56 - Enter Email : bob@gmail.com[[ChromeDriver: chrome on WINDOWS (10322175acbf74ed0d13f1173bab9d9d)] -> id: Email]
+2021-12-14 16:12:138 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (10322175acbf74ed0d13f1173bab9d9d)] -> name: Password]
+2021-12-14 16:12:741 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (10322175acbf74ed0d13f1173bab9d9d)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 16:12:861 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:776 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a1f22ac261503fa37a4f6004d51715a6)] -> link text: Log in]
+2021-12-14 16:12:928 INFO  LoginPage :56 - Enter Email : bob@gmail.com[[ChromeDriver: chrome on WINDOWS (a1f22ac261503fa37a4f6004d51715a6)] -> id: Email]
+2021-12-14 16:12:90 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (a1f22ac261503fa37a4f6004d51715a6)] -> name: Password]
+2021-12-14 16:12:805 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (a1f22ac261503fa37a4f6004d51715a6)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 16:12:659 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:737 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (44b30f88af95e309568290344e22e3cd)] -> link text: Register]
+2021-12-14 16:12:826 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (44b30f88af95e309568290344e22e3cd)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 16:12:869 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:120 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (4a4a072e2f191150fc9e387ada92057b)] -> link text: Register]
+2021-12-14 16:12:469 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (4a4a072e2f191150fc9e387ada92057b)] -> xpath: //button[@id='register-button']]
+2021-12-14 16:12:639 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (4a4a072e2f191150fc9e387ada92057b)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 16:12:743 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (4a4a072e2f191150fc9e387ada92057b)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 16:12:821 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (4a4a072e2f191150fc9e387ada92057b)] -> xpath: //span[@id='Email-error']]
+2021-12-14 16:12:927 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (4a4a072e2f191150fc9e387ada92057b)] -> xpath: //span[@id='Password-error']]
+2021-12-14 16:12:42 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (4a4a072e2f191150fc9e387ada92057b)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 16:12:115 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:383 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (cc1af6c64e9974ec11c5ad7699ba94c6)] -> link text: Register]
+2021-12-14 16:12:276 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:887 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (a761c54c25c99db03bd1314e06690443)] -> link text: Register]
+2021-12-14 16:12:18 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (a761c54c25c99db03bd1314e06690443)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 16:12:98 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:663 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (79217f320ec0c86d665c8d220134fbce)] -> link text: Register]
+2021-12-14 16:12:891 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (79217f320ec0c86d665c8d220134fbce)] -> xpath: //button[@id='register-button']]
+2021-12-14 16:12:989 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (79217f320ec0c86d665c8d220134fbce)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 16:12:81 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (79217f320ec0c86d665c8d220134fbce)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 16:12:161 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (79217f320ec0c86d665c8d220134fbce)] -> xpath: //span[@id='Email-error']]
+2021-12-14 16:12:245 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (79217f320ec0c86d665c8d220134fbce)] -> xpath: //span[@id='Password-error']]
+2021-12-14 16:12:327 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (79217f320ec0c86d665c8d220134fbce)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 16:12:403 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:910 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (f51b83ba786040e99cb4fc9898547801)] -> link text: Register]
+2021-12-14 16:12:733 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:515 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (5718a04bc7b3a77aaa0e7921b8e1854c)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-14 16:12:566 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:382 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (6dd4c9e79685b7c718b2b345cfe13b79)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-14 16:12:761 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (6dd4c9e79685b7c718b2b345cfe13b79)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-14 16:12:870 INFO  DesktopsPage :40 - Desktop text : Desktops[[ChromeDriver: chrome on WINDOWS (6dd4c9e79685b7c718b2b345cfe13b79)] -> xpath: //h1[normalize-space()='Desktops']]
+2021-12-14 16:12:966 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:541 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (9d9e371ff0b91e68332b1e8a942e76fb)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-14 16:12:161 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (9d9e371ff0b91e68332b1e8a942e76fb)] -> xpath: //div[@class='picture']]
+2021-12-14 16:12:395 INFO  BuildYourOwnComputerPage :58 - Select Processor : 2.2 GHz Intel Pentium Dual-Core E2200[[ChromeDriver: chrome on WINDOWS (9d9e371ff0b91e68332b1e8a942e76fb)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-14 16:12:585 INFO  BuildYourOwnComputerPage :63 - Select RAM  : 2 GB[[ChromeDriver: chrome on WINDOWS (9d9e371ff0b91e68332b1e8a942e76fb)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-14 16:12:748 INFO  BuildYourOwnComputerPage :68 - Select Harddisk : 320 GB[[ChromeDriver: chrome on WINDOWS (9d9e371ff0b91e68332b1e8a942e76fb)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-14 16:12:901 INFO  BuildYourOwnComputerPage :73 - Select Operating system : Vista Home [+$50.00][[ChromeDriver: chrome on WINDOWS (9d9e371ff0b91e68332b1e8a942e76fb)] -> xpath: //input[@name= 'product_attribute_4']]
+2021-12-14 16:12:11 INFO  BuildYourOwnComputerPage :78 - Select Software : Microsoft Office [+$50.00][[ChromeDriver: chrome on WINDOWS (9d9e371ff0b91e68332b1e8a942e76fb)] -> xpath: //input[@name= 'product_attribute_5']]
+2021-12-14 16:12:135 INFO  BuildYourOwnComputerPage :83 - Clicking Add to cart : [[ChromeDriver: chrome on WINDOWS (9d9e371ff0b91e68332b1e8a942e76fb)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-12-14 16:12:174 INFO  BuildYourOwnComputerPage :88 - Verify Add to cart : [[ChromeDriver: chrome on WINDOWS (9d9e371ff0b91e68332b1e8a942e76fb)] -> xpath: //p[contains(.,'The product has been added to your shopping cart')]]
+2021-12-14 16:12:209 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:83 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (306f8d193fc732450907900685360a52)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-14 16:12:992 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (306f8d193fc732450907900685360a52)] -> xpath: //div[@class='picture']]
+2021-12-14 16:12:135 INFO  BuildYourOwnComputerPage :58 - Select Processor : 2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00][[ChromeDriver: chrome on WINDOWS (306f8d193fc732450907900685360a52)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-14 16:12:353 INFO  BuildYourOwnComputerPage :63 - Select RAM  : 4GB [+$20.00][[ChromeDriver: chrome on WINDOWS (306f8d193fc732450907900685360a52)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-14 16:12:552 INFO  BuildYourOwnComputerPage :68 - Select Harddisk : 400 GB [+$100.00][[ChromeDriver: chrome on WINDOWS (306f8d193fc732450907900685360a52)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-14 16:12:707 INFO  BuildYourOwnComputerPage :73 - Select Operating system : Vista Premium [+$60.00][[ChromeDriver: chrome on WINDOWS (306f8d193fc732450907900685360a52)] -> xpath: //input[@name= 'product_attribute_4']]
+2021-12-14 16:12:852 INFO  BuildYourOwnComputerPage :78 - Select Software : Acrobat Reader [+$10.00][[ChromeDriver: chrome on WINDOWS (306f8d193fc732450907900685360a52)] -> xpath: //input[@name= 'product_attribute_5']]
+2021-12-14 16:12:973 INFO  BuildYourOwnComputerPage :83 - Clicking Add to cart : [[ChromeDriver: chrome on WINDOWS (306f8d193fc732450907900685360a52)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-12-14 16:12:931 INFO  BuildYourOwnComputerPage :88 - Verify Add to cart : [[ChromeDriver: chrome on WINDOWS (306f8d193fc732450907900685360a52)] -> xpath: //p[contains(.,'The product has been added to your shopping cart')]]
+2021-12-14 16:12:956 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:625 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (2828685ab296fd3b63737039cad7c3b4)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-14 16:12:121 INFO  DesktopsPage :60 - Select product from Desktop : Build your own computer[[ChromeDriver: chrome on WINDOWS (2828685ab296fd3b63737039cad7c3b4)] -> xpath: //div[@class='picture']]
+2021-12-14 16:12:235 INFO  BuildYourOwnComputerPage :58 - Select Processor : 2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00][[ChromeDriver: chrome on WINDOWS (2828685ab296fd3b63737039cad7c3b4)] -> xpath: //select[@id='product_attribute_1']]
+2021-12-14 16:12:400 INFO  BuildYourOwnComputerPage :63 - Select RAM  : 8GB [+$60.00][[ChromeDriver: chrome on WINDOWS (2828685ab296fd3b63737039cad7c3b4)] -> xpath: //select[@id='product_attribute_2']]
+2021-12-14 16:12:604 INFO  BuildYourOwnComputerPage :68 - Select Harddisk : 320 GB[[ChromeDriver: chrome on WINDOWS (2828685ab296fd3b63737039cad7c3b4)] -> xpath: //input[@name='product_attribute_3']]
+2021-12-14 16:12:765 INFO  BuildYourOwnComputerPage :73 - Select Operating system : Vista Home [+$50.00][[ChromeDriver: chrome on WINDOWS (2828685ab296fd3b63737039cad7c3b4)] -> xpath: //input[@name= 'product_attribute_4']]
+2021-12-14 16:12:878 INFO  BuildYourOwnComputerPage :78 - Select Software : Total Commander [+$5.00][[ChromeDriver: chrome on WINDOWS (2828685ab296fd3b63737039cad7c3b4)] -> xpath: //input[@name= 'product_attribute_5']]
+2021-12-14 16:12:01 INFO  BuildYourOwnComputerPage :83 - Clicking Add to cart : [[ChromeDriver: chrome on WINDOWS (2828685ab296fd3b63737039cad7c3b4)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-12-14 16:12:877 INFO  BuildYourOwnComputerPage :88 - Verify Add to cart : [[ChromeDriver: chrome on WINDOWS (2828685ab296fd3b63737039cad7c3b4)] -> xpath: //p[contains(.,'The product has been added to your shopping cart')]]
+2021-12-14 16:12:904 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:637 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (54735f60dd20f0aca852e409541d1bdd)] -> link text: Log in]
+2021-12-14 16:12:742 INFO  LoginPage :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (54735f60dd20f0aca852e409541d1bdd)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-14 16:12:800 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:313 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (45408baae89217bb6bc04e2648b68011)] -> link text: Log in]
+2021-12-14 16:12:615 INFO  LoginPage :52 - Enter Email : [[ChromeDriver: chrome on WINDOWS (45408baae89217bb6bc04e2648b68011)] -> id: Email]
+2021-12-14 16:12:814 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (45408baae89217bb6bc04e2648b68011)] -> name: Password]
+2021-12-14 16:12:74 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (45408baae89217bb6bc04e2648b68011)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 16:12:126 INFO  LoginPage :70 - Getting error message : [[ChromeDriver: chrome on WINDOWS (45408baae89217bb6bc04e2648b68011)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-14 16:12:272 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:979 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e4bb1538fcc0f44cf0f122c392f4b6cc)] -> link text: Log in]
+2021-12-14 16:12:246 INFO  LoginPage :56 - Enter Email : bob@gmail.com[[ChromeDriver: chrome on WINDOWS (e4bb1538fcc0f44cf0f122c392f4b6cc)] -> id: Email]
+2021-12-14 16:12:519 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (e4bb1538fcc0f44cf0f122c392f4b6cc)] -> name: Password]
+2021-12-14 16:12:854 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (e4bb1538fcc0f44cf0f122c392f4b6cc)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 16:12:625 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:484 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9f1957f34cf2f4e4c94a09550a113a74)] -> link text: Log in]
+2021-12-14 16:12:747 INFO  LoginPage :56 - Enter Email : bob@gmail.com[[ChromeDriver: chrome on WINDOWS (9f1957f34cf2f4e4c94a09550a113a74)] -> id: Email]
+2021-12-14 16:12:943 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (9f1957f34cf2f4e4c94a09550a113a74)] -> name: Password]
+2021-12-14 16:12:303 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (9f1957f34cf2f4e4c94a09550a113a74)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 16:12:332 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:02 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (9477cbffe93f8c72c730638d909d3c40)] -> link text: Register]
+2021-12-14 16:12:132 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (9477cbffe93f8c72c730638d909d3c40)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 16:12:196 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:777 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (f102e4828f0b520ec6975dc804f2be21)] -> link text: Register]
+2021-12-14 16:12:15 INFO  RegisterPage :141 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (f102e4828f0b520ec6975dc804f2be21)] -> xpath: //button[@id='register-button']]
+2021-12-14 16:12:108 INFO  RegisterPage :156 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (f102e4828f0b520ec6975dc804f2be21)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 16:12:162 INFO  RegisterPage :161 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (f102e4828f0b520ec6975dc804f2be21)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 16:12:249 INFO  RegisterPage :166 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (f102e4828f0b520ec6975dc804f2be21)] -> xpath: //span[@id='Email-error']]
+2021-12-14 16:12:318 INFO  RegisterPage :171 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (f102e4828f0b520ec6975dc804f2be21)] -> xpath: //span[@id='Password-error']]
+2021-12-14 16:12:401 INFO  RegisterPage :176 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (f102e4828f0b520ec6975dc804f2be21)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 16:12:452 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:953 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (68ce7ef775d215f196b4d2c16bbcc5d7)] -> link text: Register]
+2021-12-14 16:12:443 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:345 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (06c1be615949e30ab67dc9ecdf0c3181)] -> link text: Register]
+2021-12-14 16:12:393 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (06c1be615949e30ab67dc9ecdf0c3181)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 16:12:409 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:867 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (c70d5c5f1ca1f237f2b4e038bcfcf3f1)] -> link text: Register]
+2021-12-14 16:12:979 INFO  RegisterPage :141 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (c70d5c5f1ca1f237f2b4e038bcfcf3f1)] -> xpath: //button[@id='register-button']]
+2021-12-14 16:12:17 INFO  RegisterPage :156 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (c70d5c5f1ca1f237f2b4e038bcfcf3f1)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 16:12:52 INFO  RegisterPage :161 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (c70d5c5f1ca1f237f2b4e038bcfcf3f1)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 16:12:89 INFO  RegisterPage :166 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (c70d5c5f1ca1f237f2b4e038bcfcf3f1)] -> xpath: //span[@id='Email-error']]
+2021-12-14 16:12:127 INFO  RegisterPage :171 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (c70d5c5f1ca1f237f2b4e038bcfcf3f1)] -> xpath: //span[@id='Password-error']]
+2021-12-14 16:12:159 INFO  RegisterPage :176 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (c70d5c5f1ca1f237f2b4e038bcfcf3f1)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 16:12:179 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:416 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (7b5a081b2e3ecca65ae58a40edea7694)] -> link text: Register]
+2021-12-14 16:12:936 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:893 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (14605ff26ca56ac99f64f9b6b41e9017)] -> link text: Register]
+2021-12-14 16:12:948 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (14605ff26ca56ac99f64f9b6b41e9017)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 16:12:963 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:326 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (0b04abe0a55931f6f9bed19ef2940765)] -> link text: Register]
+2021-12-14 16:12:426 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (0b04abe0a55931f6f9bed19ef2940765)] -> xpath: //button[@id='register-button']]
+2021-12-14 16:12:467 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (0b04abe0a55931f6f9bed19ef2940765)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 16:12:503 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (0b04abe0a55931f6f9bed19ef2940765)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 16:12:540 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (0b04abe0a55931f6f9bed19ef2940765)] -> xpath: //span[@id='Email-error']]
+2021-12-14 16:12:570 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (0b04abe0a55931f6f9bed19ef2940765)] -> xpath: //span[@id='Password-error']]
+2021-12-14 16:12:603 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (0b04abe0a55931f6f9bed19ef2940765)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 16:12:621 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 16:12:316 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (8cc128d3dd11e0a785641d3f684ccbe2)] -> link text: Register]
+2021-12-14 17:12:745 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:293 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (2d20d7bd2c2b626177f371059b93bea8)] -> link text: Register]
+2021-12-14 17:12:367 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (2d20d7bd2c2b626177f371059b93bea8)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 17:12:405 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:19 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (ce8110dcb54ffd0785c2fad83a91a259)] -> link text: Register]
+2021-12-14 17:12:181 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (ce8110dcb54ffd0785c2fad83a91a259)] -> xpath: //button[@id='register-button']]
+2021-12-14 17:12:253 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (ce8110dcb54ffd0785c2fad83a91a259)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 17:12:316 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (ce8110dcb54ffd0785c2fad83a91a259)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 17:12:366 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (ce8110dcb54ffd0785c2fad83a91a259)] -> xpath: //span[@id='Email-error']]
+2021-12-14 17:12:413 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (ce8110dcb54ffd0785c2fad83a91a259)] -> xpath: //span[@id='Password-error']]
+2021-12-14 17:12:465 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (ce8110dcb54ffd0785c2fad83a91a259)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 17:12:497 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:678 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (f4979750db85df51223ff580161b6dd4)] -> link text: Register]
+2021-12-14 17:12:141 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:822 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (5f9e3000572ad270eb7c80bff36c373e)] -> link text: Register]
+2021-12-14 17:12:970 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (5f9e3000572ad270eb7c80bff36c373e)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 17:12:30 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:410 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (e38428ac1bfb63d56316e4aaa5cf8ca7)] -> link text: Register]
+2021-12-14 17:12:656 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (e38428ac1bfb63d56316e4aaa5cf8ca7)] -> xpath: //button[@id='register-button']]
+2021-12-14 17:12:741 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (e38428ac1bfb63d56316e4aaa5cf8ca7)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 17:12:853 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (e38428ac1bfb63d56316e4aaa5cf8ca7)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 17:12:953 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (e38428ac1bfb63d56316e4aaa5cf8ca7)] -> xpath: //span[@id='Email-error']]
+2021-12-14 17:12:46 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (e38428ac1bfb63d56316e4aaa5cf8ca7)] -> xpath: //span[@id='Password-error']]
+2021-12-14 17:12:136 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (e38428ac1bfb63d56316e4aaa5cf8ca7)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 17:12:213 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:981 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (8633d14277dc7da51b7a226cdd172fee)] -> link text: Register]
+2021-12-14 17:12:204 INFO  RegisterPage :97 - Select Gender : Male[[ChromeDriver: chrome on WINDOWS (8633d14277dc7da51b7a226cdd172fee)] -> xpath: //div[@id='gender']]
+2021-12-14 17:12:642 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:598 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (7696da97433dd6c4711df478033906a8)] -> link text: Register]
+2021-12-14 17:12:705 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (7696da97433dd6c4711df478033906a8)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 17:12:819 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:423 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (a45ce53cc2578a4d8bd9c89315f0412e)] -> link text: Register]
+2021-12-14 17:12:674 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (a45ce53cc2578a4d8bd9c89315f0412e)] -> xpath: //button[@id='register-button']]
+2021-12-14 17:12:788 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (a45ce53cc2578a4d8bd9c89315f0412e)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 17:12:890 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (a45ce53cc2578a4d8bd9c89315f0412e)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 17:12:966 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (a45ce53cc2578a4d8bd9c89315f0412e)] -> xpath: //span[@id='Email-error']]
+2021-12-14 17:12:52 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (a45ce53cc2578a4d8bd9c89315f0412e)] -> xpath: //span[@id='Password-error']]
+2021-12-14 17:12:146 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (a45ce53cc2578a4d8bd9c89315f0412e)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 17:12:243 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:478 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (f31fb694ccf3839d1726bed13bf8909d)] -> link text: Register]
+2021-12-14 17:12:603 INFO  RegisterPage :97 - Select Gender : Male[[ChromeDriver: chrome on WINDOWS (f31fb694ccf3839d1726bed13bf8909d)] -> xpath: //input[@name='Gender']]
+2021-12-14 17:12:934 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:599 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (6d298460a381f93c34e8a1d9712b01bf)] -> link text: Register]
+2021-12-14 17:12:733 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (6d298460a381f93c34e8a1d9712b01bf)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 17:12:796 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:144 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (f70838b88caf5757825b78b6fc41f088)] -> link text: Register]
+2021-12-14 17:12:423 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (f70838b88caf5757825b78b6fc41f088)] -> xpath: //button[@id='register-button']]
+2021-12-14 17:12:551 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (f70838b88caf5757825b78b6fc41f088)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 17:12:653 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (f70838b88caf5757825b78b6fc41f088)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 17:12:778 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (f70838b88caf5757825b78b6fc41f088)] -> xpath: //span[@id='Email-error']]
+2021-12-14 17:12:915 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (f70838b88caf5757825b78b6fc41f088)] -> xpath: //span[@id='Password-error']]
+2021-12-14 17:12:49 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (f70838b88caf5757825b78b6fc41f088)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 17:12:195 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:121 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (91257cfbe0632e28812566e62a5ea31c)] -> link text: Register]
+2021-12-14 17:12:323 INFO  RegisterPage :97 - Select Gender : Male[[ChromeDriver: chrome on WINDOWS (91257cfbe0632e28812566e62a5ea31c)] -> xpath: //input[@name='Gender']]
+2021-12-14 17:12:552 INFO  RegisterPage :102 - First name : Bob[[ChromeDriver: chrome on WINDOWS (91257cfbe0632e28812566e62a5ea31c)] -> xpath: //input[@id='FirstName']]
+2021-12-14 17:12:765 INFO  RegisterPage :107 - Last name : Alexa[[ChromeDriver: chrome on WINDOWS (91257cfbe0632e28812566e62a5ea31c)] -> xpath: //input[@id='LastName']]
+2021-12-14 17:12:992 INFO  RegisterPage :112 - Birth details  : 11[[ChromeDriver: chrome on WINDOWS (91257cfbe0632e28812566e62a5ea31c)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-14 17:12:362 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:742 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (7f6aa99c8b425baf8be0874fdda1e143)] -> link text: Register]
+2021-12-14 17:12:868 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (7f6aa99c8b425baf8be0874fdda1e143)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 17:12:932 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:236 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (7b074f6b65446a09f83e4bad591cb88b)] -> link text: Register]
+2021-12-14 17:12:517 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (7b074f6b65446a09f83e4bad591cb88b)] -> xpath: //button[@id='register-button']]
+2021-12-14 17:12:631 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (7b074f6b65446a09f83e4bad591cb88b)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 17:12:734 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (7b074f6b65446a09f83e4bad591cb88b)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 17:12:840 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (7b074f6b65446a09f83e4bad591cb88b)] -> xpath: //span[@id='Email-error']]
+2021-12-14 17:12:923 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (7b074f6b65446a09f83e4bad591cb88b)] -> xpath: //span[@id='Password-error']]
+2021-12-14 17:12:22 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (7b074f6b65446a09f83e4bad591cb88b)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 17:12:90 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:339 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (14b0804165fe334c18f4a0bc8483e85b)] -> link text: Register]
+2021-12-14 17:12:534 INFO  RegisterPage :97 - Select Gender : Male[[ChromeDriver: chrome on WINDOWS (14b0804165fe334c18f4a0bc8483e85b)] -> xpath: //input[@name='Gender']]
+2021-12-14 17:12:786 INFO  RegisterPage :102 - First name : Bob[[ChromeDriver: chrome on WINDOWS (14b0804165fe334c18f4a0bc8483e85b)] -> xpath: //input[@id='FirstName']]
+2021-12-14 17:12:68 INFO  RegisterPage :107 - Last name : Alexa[[ChromeDriver: chrome on WINDOWS (14b0804165fe334c18f4a0bc8483e85b)] -> xpath: //input[@id='LastName']]
+2021-12-14 17:12:326 INFO  RegisterPage :112 - Birth details  : 11[[ChromeDriver: chrome on WINDOWS (14b0804165fe334c18f4a0bc8483e85b)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-14 17:12:554 INFO  RegisterPage :116 - Birth details  : November[[ChromeDriver: chrome on WINDOWS (14b0804165fe334c18f4a0bc8483e85b)] -> xpath: //select[@name='DateOfBirthMonth']]
+2021-12-14 17:12:784 INFO  RegisterPage :120 - Birth details  : 2011[[ChromeDriver: chrome on WINDOWS (14b0804165fe334c18f4a0bc8483e85b)] -> xpath: //select[@name='DateOfBirthYear']]
+2021-12-14 17:12:232 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:272 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (1b016132b62e35918f898d1faf063786)] -> link text: Register]
+2021-12-14 17:12:400 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (1b016132b62e35918f898d1faf063786)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 17:12:470 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:801 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (e7336dba94a499d3cb0a2637da17fb89)] -> link text: Register]
+2021-12-14 17:12:67 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (e7336dba94a499d3cb0a2637da17fb89)] -> xpath: //button[@id='register-button']]
+2021-12-14 17:12:181 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (e7336dba94a499d3cb0a2637da17fb89)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 17:12:306 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (e7336dba94a499d3cb0a2637da17fb89)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 17:12:404 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (e7336dba94a499d3cb0a2637da17fb89)] -> xpath: //span[@id='Email-error']]
+2021-12-14 17:12:501 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (e7336dba94a499d3cb0a2637da17fb89)] -> xpath: //span[@id='Password-error']]
+2021-12-14 17:12:583 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (e7336dba94a499d3cb0a2637da17fb89)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 17:12:649 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:514 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> link text: Register]
+2021-12-14 17:12:715 INFO  RegisterPage :97 - Select Gender : Male[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //input[@name='Gender']]
+2021-12-14 17:12:963 INFO  RegisterPage :102 - First name : Bob[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //input[@id='FirstName']]
+2021-12-14 17:12:194 INFO  RegisterPage :107 - Last name : Alexa[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //input[@id='LastName']]
+2021-12-14 17:12:451 INFO  RegisterPage :112 - Birth details  : 11[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-14 17:12:652 INFO  RegisterPage :116 - Birth details  : November[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //select[@name='DateOfBirthMonth']]
+2021-12-14 17:12:873 INFO  RegisterPage :120 - Birth details  : 2011[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //select[@name='DateOfBirthYear']]
+2021-12-14 17:12:96 INFO  RegisterPage :125 - Enter Email : Bob@gmail.com[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //input[@id='Email']]
+2021-12-14 17:12:272 INFO  RegisterPage :130 - Enter password : Bob123[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //input[@id='Password']]
+2021-12-14 17:12:459 INFO  RegisterPage :135 - Enter confirmPassword : Bob123[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //input[@id='ConfirmPassword']]
+2021-12-14 17:12:421 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //button[@id='register-button']]
+2021-12-14 17:12:510 INFO  RegisterPage :145 - Registration text verify: Your registration completed[[ChromeDriver: chrome on WINDOWS (75232d3a4bf265f7a90fe53497f55eb5)] -> xpath: //div[contains(text(),'Your registration completed')]]
+2021-12-14 17:12:449 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:787 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3d22836db11cc09a067223c432277681)] -> link text: Log in]
+2021-12-14 17:12:900 INFO  LoginPage :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3d22836db11cc09a067223c432277681)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-14 17:12:944 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:41 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f787e95f52a7c878ab01c8904c97d687)] -> link text: Log in]
+2021-12-14 17:12:388 INFO  LoginPage :52 - Enter Email : [[ChromeDriver: chrome on WINDOWS (f787e95f52a7c878ab01c8904c97d687)] -> id: Email]
+2021-12-14 17:12:602 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (f787e95f52a7c878ab01c8904c97d687)] -> name: Password]
+2021-12-14 17:12:952 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (f787e95f52a7c878ab01c8904c97d687)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 17:12:20 INFO  LoginPage :70 - Getting error message : [[ChromeDriver: chrome on WINDOWS (f787e95f52a7c878ab01c8904c97d687)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-14 17:12:101 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:367 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e4f45edf6b58e25662d13762555b2e33)] -> link text: Log in]
+2021-12-14 17:12:621 INFO  LoginPage :56 - Enter Email : bob@gmail.com[[ChromeDriver: chrome on WINDOWS (e4f45edf6b58e25662d13762555b2e33)] -> id: Email]
+2021-12-14 17:12:842 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (e4f45edf6b58e25662d13762555b2e33)] -> name: Password]
+2021-12-14 17:12:176 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (e4f45edf6b58e25662d13762555b2e33)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 17:12:388 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 17:12:599 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (770f649defc21124a4db2ba2d138478e)] -> link text: Log in]
+2021-12-14 17:12:951 INFO  LoginPage :56 - Enter Email : bob@gmail.com[[ChromeDriver: chrome on WINDOWS (770f649defc21124a4db2ba2d138478e)] -> id: Email]
+2021-12-14 17:12:813 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (770f649defc21124a4db2ba2d138478e)] -> name: Password]
+2021-12-14 17:12:567 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (770f649defc21124a4db2ba2d138478e)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 18:12:926 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 18:12:108 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f3803d3b979d8660576873962510e7d9)] -> link text: Log in]
+2021-12-14 18:12:165 INFO  LoginPage :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f3803d3b979d8660576873962510e7d9)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-14 18:12:184 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 18:12:515 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (767cc643644b08fed27fac2b0747b6f4)] -> link text: Log in]
+2021-12-14 18:12:679 INFO  LoginPage :52 - Enter Email : [[ChromeDriver: chrome on WINDOWS (767cc643644b08fed27fac2b0747b6f4)] -> id: Email]
+2021-12-14 18:12:758 INFO  LoginPage :61 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (767cc643644b08fed27fac2b0747b6f4)] -> name: Password]
+2021-12-14 18:12:760 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (767cc643644b08fed27fac2b0747b6f4)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 18:12:788 INFO  LoginPage :70 - Getting error message : [[ChromeDriver: chrome on WINDOWS (767cc643644b08fed27fac2b0747b6f4)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-14 18:12:811 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 18:12:453 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (981c038764e05fa2b6058ba217922d09)] -> link text: Log in]
+2021-12-14 18:12:544 INFO  LoginPage :56 - Enter Email : Bob@gmail.com[[ChromeDriver: chrome on WINDOWS (981c038764e05fa2b6058ba217922d09)] -> id: Email]
+2021-12-14 18:12:620 INFO  LoginPage :61 - Enter Password : Bob123[[ChromeDriver: chrome on WINDOWS (981c038764e05fa2b6058ba217922d09)] -> name: Password]
+2021-12-14 18:12:48 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (981c038764e05fa2b6058ba217922d09)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 18:12:258 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 18:12:670 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ee02471cf52b1f2f4cf9d42f98664570)] -> link text: Log in]
+2021-12-14 18:12:766 INFO  LoginPage :56 - Enter Email : Bob@gmail.com[[ChromeDriver: chrome on WINDOWS (ee02471cf52b1f2f4cf9d42f98664570)] -> id: Email]
+2021-12-14 18:12:841 INFO  LoginPage :61 - Enter Password : Bob123[[ChromeDriver: chrome on WINDOWS (ee02471cf52b1f2f4cf9d42f98664570)] -> name: Password]
+2021-12-14 18:12:395 INFO  LoginPage :66 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (ee02471cf52b1f2f4cf9d42f98664570)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 19:12:740 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:484 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (bc0c7a4f2a3be386cef96ade4d536dfe)] -> link text: Register]
+2021-12-14 19:12:552 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (bc0c7a4f2a3be386cef96ade4d536dfe)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 19:12:588 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:119 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (24b31e085278836c2b60c15d26fa199c)] -> link text: Register]
+2021-12-14 19:12:214 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (24b31e085278836c2b60c15d26fa199c)] -> xpath: //button[@id='register-button']]
+2021-12-14 19:12:264 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (24b31e085278836c2b60c15d26fa199c)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 19:12:306 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (24b31e085278836c2b60c15d26fa199c)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 19:12:339 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (24b31e085278836c2b60c15d26fa199c)] -> xpath: //span[@id='Email-error']]
+2021-12-14 19:12:370 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (24b31e085278836c2b60c15d26fa199c)] -> xpath: //span[@id='Password-error']]
+2021-12-14 19:12:404 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (24b31e085278836c2b60c15d26fa199c)] -> xpath: //span[@id='ConfirmPassword-error']]
+2021-12-14 19:12:432 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:220 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> link text: Register]
+2021-12-14 19:12:306 INFO  RegisterPage :97 - Select Gender : Male[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //input[@name='Gender']]
+2021-12-14 19:12:421 INFO  RegisterPage :102 - First name : Bob[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //input[@id='FirstName']]
+2021-12-14 19:12:511 INFO  RegisterPage :107 - Last name : Alexa[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //input[@id='LastName']]
+2021-12-14 19:12:603 INFO  RegisterPage :112 - Birth details  : 11[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //select[@name='DateOfBirthDay']]
+2021-12-14 19:12:683 INFO  RegisterPage :116 - Birth details  : November[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //select[@name='DateOfBirthMonth']]
+2021-12-14 19:12:753 INFO  RegisterPage :120 - Birth details  : 2011[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //select[@name='DateOfBirthYear']]
+2021-12-14 19:12:829 INFO  RegisterPage :125 - Enter Email : Bob@gmail.com[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //input[@id='Email']]
+2021-12-14 19:12:907 INFO  RegisterPage :130 - Enter password : Bob123[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //input[@id='Password']]
+2021-12-14 19:12:979 INFO  RegisterPage :135 - Enter confirmPassword : Bob123[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //input[@id='ConfirmPassword']]
+2021-12-14 19:12:282 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //button[@id='register-button']]
+2021-12-14 19:12:323 INFO  RegisterPage :145 - Registration text verify: Your registration completed[[ChromeDriver: chrome on WINDOWS (1acce4f3a9689460a3b91988c2f63d8a)] -> xpath: //div[contains(text(),'Your registration completed')]]
+2021-12-14 19:12:826 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:567 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e270bf75a21afd408805bf3967d0df1f)] -> link text: Log in]
+2021-12-14 19:12:618 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e270bf75a21afd408805bf3967d0df1f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-14 19:12:635 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:635 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (05ad9578961aa38ef6aa5cfbb6eff6d8)] -> link text: Log in]
+2021-12-14 19:12:766 INFO  LoginPage :54 - Enter Email : [[ChromeDriver: chrome on WINDOWS (05ad9578961aa38ef6aa5cfbb6eff6d8)] -> id: Email]
+2021-12-14 19:12:847 INFO  LoginPage :63 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (05ad9578961aa38ef6aa5cfbb6eff6d8)] -> name: Password]
+2021-12-14 19:12:846 INFO  LoginPage :68 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (05ad9578961aa38ef6aa5cfbb6eff6d8)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 19:12:875 INFO  LoginPage :72 - Getting error message : [[ChromeDriver: chrome on WINDOWS (05ad9578961aa38ef6aa5cfbb6eff6d8)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-14 19:12:898 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:222 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (857d8959eb489b10e0d67cabba13989b)] -> link text: Log in]
+2021-12-14 19:12:309 INFO  LoginPage :58 - Enter Email : 6G6cw@gmail.com[[ChromeDriver: chrome on WINDOWS (857d8959eb489b10e0d67cabba13989b)] -> id: Email]
+2021-12-14 19:12:390 INFO  LoginPage :63 - Enter Password : Bob123[[ChromeDriver: chrome on WINDOWS (857d8959eb489b10e0d67cabba13989b)] -> name: Password]
+2021-12-14 19:12:370 INFO  LoginPage :68 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (857d8959eb489b10e0d67cabba13989b)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 19:12:19 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:602 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e3a7cefd6257e8f6a917d2b376fab4c8)] -> link text: Log in]
+2021-12-14 19:12:701 INFO  LoginPage :58 - Enter Email : 6G6cw@gmail.com[[ChromeDriver: chrome on WINDOWS (e3a7cefd6257e8f6a917d2b376fab4c8)] -> id: Email]
+2021-12-14 19:12:786 INFO  LoginPage :63 - Enter Password : Bob123[[ChromeDriver: chrome on WINDOWS (e3a7cefd6257e8f6a917d2b376fab4c8)] -> name: Password]
+2021-12-14 19:12:211 INFO  LoginPage :68 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (e3a7cefd6257e8f6a917d2b376fab4c8)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 19:12:299 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:312 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (40758dbe7c8218e8d238ee48f9147f47)] -> link text: Log in]
+2021-12-14 19:12:441 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (40758dbe7c8218e8d238ee48f9147f47)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-14 19:12:490 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:368 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3dfc8b6401be3c9035b0c3d6d0cf8426)] -> link text: Log in]
+2021-12-14 19:12:658 INFO  LoginPage :54 - Enter Email : [[ChromeDriver: chrome on WINDOWS (3dfc8b6401be3c9035b0c3d6d0cf8426)] -> id: Email]
+2021-12-14 19:12:810 INFO  LoginPage :63 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (3dfc8b6401be3c9035b0c3d6d0cf8426)] -> name: Password]
+2021-12-14 19:12:50 INFO  LoginPage :68 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (3dfc8b6401be3c9035b0c3d6d0cf8426)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 19:12:102 INFO  LoginPage :72 - Getting error message : [[ChromeDriver: chrome on WINDOWS (3dfc8b6401be3c9035b0c3d6d0cf8426)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-14 19:12:191 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:807 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a8334cdd8f8617094fa7aeba3ddafdc8)] -> link text: Log in]
+2021-12-14 19:12:131 INFO  LoginPage :54 - Enter Email : [[ChromeDriver: chrome on WINDOWS (a8334cdd8f8617094fa7aeba3ddafdc8)] -> id: Email]
+2021-12-14 19:12:321 INFO  LoginPage :63 - Enter Password : Bob123[[ChromeDriver: chrome on WINDOWS (a8334cdd8f8617094fa7aeba3ddafdc8)] -> name: Password]
+2021-12-14 19:12:455 INFO  LoginPage :68 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (a8334cdd8f8617094fa7aeba3ddafdc8)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 19:12:929 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:390 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ebf66a19fd5de6f3ea4c66a2bb845862)] -> link text: Log in]
+2021-12-14 19:12:624 INFO  LoginPage :54 - Enter Email : [[ChromeDriver: chrome on WINDOWS (ebf66a19fd5de6f3ea4c66a2bb845862)] -> id: Email]
+2021-12-14 19:12:722 INFO  LoginPage :63 - Enter Password : Bob123[[ChromeDriver: chrome on WINDOWS (ebf66a19fd5de6f3ea4c66a2bb845862)] -> name: Password]
+2021-12-14 19:12:936 INFO  LoginPage :68 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (ebf66a19fd5de6f3ea4c66a2bb845862)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 19:12:648 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:812 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (fbbdd86fada1a7f978acfbed2d4968df)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-14 19:12:865 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:881 INFO  ComputerPage :37 - Computer text displayed : [[ChromeDriver: chrome on WINDOWS (71fafe6cf89ad1de8dbc124d6d4dca08)] -> xpath: //h1[contains(text(),'Computers')]]
+2021-12-14 19:12:185 INFO  ComputerPage :42 - Clicking on Desktop link : [[ChromeDriver: chrome on WINDOWS (71fafe6cf89ad1de8dbc124d6d4dca08)] -> xpath: //li[@class='inactive']//a[normalize-space()='Desktops']]
+2021-12-14 19:12:265 INFO  DesktopsPage :40 - Desktop text : Desktops[[ChromeDriver: chrome on WINDOWS (71fafe6cf89ad1de8dbc124d6d4dca08)] -> xpath: //h1[normalize-space()='Desktops']]
+2021-12-14 19:12:362 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:420 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7db35c5048f8f652ee62263330f76c82)] -> link text: Log in]
+2021-12-14 19:12:510 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7db35c5048f8f652ee62263330f76c82)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-14 19:12:570 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:201 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e14f094a02a15d5cc28eea4b4260525f)] -> link text: Log in]
+2021-12-14 19:12:725 INFO  LoginPage :54 - Enter Email : [[ChromeDriver: chrome on WINDOWS (e14f094a02a15d5cc28eea4b4260525f)] -> id: Email]
+2021-12-14 19:12:924 INFO  LoginPage :63 - Enter Password : Bob1234[[ChromeDriver: chrome on WINDOWS (e14f094a02a15d5cc28eea4b4260525f)] -> name: Password]
+2021-12-14 19:12:524 INFO  LoginPage :68 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (e14f094a02a15d5cc28eea4b4260525f)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 19:12:569 INFO  LoginPage :72 - Getting error message : [[ChromeDriver: chrome on WINDOWS (e14f094a02a15d5cc28eea4b4260525f)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-14 19:12:658 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:458 INFO  HomePage :63 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e0f531f8c1b35722f2d222331f3c93d9)] -> link text: Log in]
+2021-12-14 19:12:779 INFO  LoginPage :54 - Enter Email : [[ChromeDriver: chrome on WINDOWS (e0f531f8c1b35722f2d222331f3c93d9)] -> id: Email]
+2021-12-14 19:12:975 INFO  LoginPage :63 - Enter Password : Bob123[[ChromeDriver: chrome on WINDOWS (e0f531f8c1b35722f2d222331f3c93d9)] -> name: Password]
+2021-12-14 19:12:190 INFO  LoginPage :68 - Click on Login Button : [[ChromeDriver: chrome on WINDOWS (e0f531f8c1b35722f2d222331f3c93d9)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-14 19:12:762 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:521 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (e4e50306db25a23a23bec7564ceb5437)] -> link text: Register]
+2021-12-14 19:12:642 INFO  RegisterPage :92 - Verify Register Page Text : Register[[ChromeDriver: chrome on WINDOWS (e4e50306db25a23a23bec7564ceb5437)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-14 19:12:695 INFO  ManageDriver :31 - Launching Chrome Browser
+2021-12-14 19:12:962 INFO  HomePage :73 - Clicking on Register link : [[ChromeDriver: chrome on WINDOWS (bb6fd427d19698bd6de9c66e83a78aaa)] -> link text: Register]
+2021-12-14 19:12:336 INFO  RegisterPage :140 - Click Register Button : [[ChromeDriver: chrome on WINDOWS (bb6fd427d19698bd6de9c66e83a78aaa)] -> xpath: //button[@id='register-button']]
+2021-12-14 19:12:467 INFO  RegisterPage :155 - First name error : First name is required.[[ChromeDriver: chrome on WINDOWS (bb6fd427d19698bd6de9c66e83a78aaa)] -> xpath: //span[@id='FirstName-error']]
+2021-12-14 19:12:561 INFO  RegisterPage :160 - Last name error : Last name is required.[[ChromeDriver: chrome on WINDOWS (bb6fd427d19698bd6de9c66e83a78aaa)] -> xpath: //span[@id='LastName-error']]
+2021-12-14 19:12:666 INFO  RegisterPage :165 - Email error : Email is required.[[ChromeDriver: chrome on WINDOWS (bb6fd427d19698bd6de9c66e83a78aaa)] -> xpath: //span[@id='Email-error']]
+2021-12-14 19:12:748 INFO  RegisterPage :170 - Password error : Password is required.[[ChromeDriver: chrome on WINDOWS (bb6fd427d19698bd6de9c66e83a78aaa)] -> xpath: //span[@id='Password-error']]
+2021-12-14 19:12:842 INFO  RegisterPage :175 - Confirm password error  : Password is required.[[ChromeDriver: chrome on WINDOWS (bb6fd427d19698bd6de9c66e83a78aaa)] -> xpath: //span[@id='ConfirmPassword-error']]
